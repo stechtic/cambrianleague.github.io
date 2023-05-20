@@ -1,0 +1,194 @@
+
+.container {
+    display: flex;
+    background-color: aliceblue;
+
+}
+
+#logo{
+    height: 7rem;
+    width: 7rem;
+
+    border-radius: 5rem;
+    background: url(Koala.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+@media (max-width:350px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #navbar a {
+        border-radius: auto;
+        display: block;
+        
+        
+    }
+    #navbar{
+        padding: 30vw;
+        
+    }
+    #logo{
+        display: block;
+        margin: auto;
+
+        
+    }
+    
+    #button{
+        display: block;
+        margin: auto;
+    }
+}
+@media (max-width:500px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    #navbar a {
+        border-radius: auto;
+        display: block;
+        
+        
+    }
+    #navbar{
+      padding: 40vw;
+      margin: auto;    
+    }
+    #logo{
+        display: block;
+        margin: auto;
+
+        
+    }
+    
+    #button{
+        display: block;
+        margin: auto;
+    }
+}
+@media (max-width:992px){
+    #button{
+        display: flex;
+        height: 2rem;
+    }
+}
+
+
+#navbar {
+    width: 38rem;
+
+    margin: auto;
+
+}
+
+#navbar a {
+    padding: 1rem;
+    text-decoration: none;
+}
+
+#button {
+
+    padding-top: 2.5rem;
+}
+
+#sect-3 {
+    width: 100vw;
+    display: flex;
+
+}
+
+#sect-4 h1 {
+    text-align: center;
+
+}
+
+#team1 {
+    text-align: center;
+    margin: 0.4rem;
+
+    background: url(wat1.jpg);
+    height: 20vh;
+    width: 50vw;
+    color: white;
+    font-size: 2rem;
+}
+
+#team2 {
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    margin: 0.4rem;
+    
+    background: url(wat4.jpg);
+    
+    height: 20vh;
+    width: 50vw;
+}
+
+#team {
+
+    background-color: aliceblue;
+    font-size: 2.5rem;
+    ;
+    text-align: center;
+}
+
+#sponsor {
+    
+    height: 14rem;
+    width: 100vw;
+    background-color: rgb(111, 255, 255);
+
+}
+
+#spo1 {
+    
+    background: url(Koala.jpg);
+    
+    height: 7rem;
+    width: 7rem;
+    border-radius: 5rem;
+    background-size: cover;
+    justify-content: center;
+margin: auto;
+    margin-top: 0.4rem;
+    text-align: center;
+}
+
+.spo2 {
+    
+    width: 100vw;
+    background-color: rgb(111, 255, 255);
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.spo2 div h1 {
+
+    padding: 1.5rem;
+}
+
+#sect-1 {
+
+    background-color: aliceblue;
+    margin: 0.2rem;
+
+
+}
+
+#sect-1 h1 {
+    text-align: center;
+
+}
+
+#sect-2 {
+    display: flex;
+    margin: 0.2rem;
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
