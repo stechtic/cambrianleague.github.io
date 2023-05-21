@@ -38,7 +38,7 @@ body{
 }
 
 #logo{
-    height: 7rem;
+    height: 8rem;
     width: 9rem;
 
     
@@ -150,6 +150,7 @@ body{
     margin: 0.4rem;
 
     background: url(wat1.jpg);
+    background-size:contain;
     height: 20vh;
     width: 50vw;
     color: black;
@@ -163,7 +164,7 @@ body{
     margin: 0.4rem;
     
     background: url(wat4.jpg);
-    
+    background-size:contain;
     height: 20vh;
     width: 50vw;
 }
