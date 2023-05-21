@@ -196,13 +196,13 @@ margin: auto;
     padding: 1.5rem;
 }
 
-#sect-1 {
+
 
     
-    margin: 0.2rem;
+    
 
 
-}
+
 
 #sect-1 h1 {
     text-align: center;
@@ -211,7 +211,7 @@ margin: auto;
 
 #sect-2 {
     display: flex;
-    margin: 0.2rem;
+    
     
     justify-content: center;
     align-items: center;
