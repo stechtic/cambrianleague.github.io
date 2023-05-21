@@ -7,11 +7,13 @@
     overflow-x: hidden; 
 }
 body{
+ color: black;
  background: url(Foo1.jpg);
  background-repeat:no-repeat;
  background-position: center;
  background-size:cover;
- opacity:0.3;
+ opacity:0.2;
+ 
 }
 .container {
     display: flex;
@@ -126,13 +128,13 @@ body{
     background: url(wat1.jpg);
     height: 20vh;
     width: 50vw;
-    color: white;
+    color: black;
     font-size: 2rem;
 }
 
 #team2 {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 2rem;
     margin: 0.4rem;
     
