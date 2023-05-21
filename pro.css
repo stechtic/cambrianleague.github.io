@@ -11,7 +11,7 @@ body{
  background: url(Foo1.jpg);
  background-repeat:no-repeat;
  background-position: center;
- background-size:cover;
+ background-size:contain;
  opacity:5;
  z-index:-1;
 }
@@ -101,7 +101,7 @@ body{
 }
 
 #navbar a {
-    width:1.2rem;
+    width:4rem;
     
     color:black;
     padding: 1rem;
@@ -109,7 +109,7 @@ body{
 }
 #navbar a:hover {
     background-color:white;
-    border-radius:0.8rem;
+    border-radius:1rem;
     
     
 }
