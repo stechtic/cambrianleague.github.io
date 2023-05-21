@@ -8,9 +8,8 @@
 }
 body{
  color: black;
- background: url(Foo1.jpg);
- height:100%;
- width:100%;
+ background: url(Foo3.jpg);
+ 
  background-repeat:no-repeat;
  background-position: center;
  background-size:cover;
