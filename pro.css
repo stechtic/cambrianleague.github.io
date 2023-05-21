@@ -106,7 +106,8 @@ body{
     text-decoration: none;
 }
 #navbar a:hover {
-    color:grey;
+    background-color:white;
+    border-radius:0.8rem;
     
     
 }
@@ -213,6 +214,6 @@ margin: auto;
     align-items: center;
     margin-bottom: 1rem;
 }
-#marq{
+marquee{
  background-color:rgb(152, 251, 152);
  }
