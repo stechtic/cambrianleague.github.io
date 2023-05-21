@@ -6,7 +6,13 @@
     padding: 0px;
     overflow-x: hidden; 
 }
-
+body{
+ background: url(Foo1.jpg);
+ background-repeat:no-repeat;
+ background-position: center;
+ background-size:cover;
+ opacity:0.5;
+}
 .container {
     display: flex;
     background-color: aliceblue;
