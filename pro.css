@@ -11,7 +11,7 @@ html,body{
 }
 body{
  color: black;
- background-color:azure;
+ background-color:cyan;
  
 }
 #p1{
@@ -41,7 +41,7 @@ body{
     height: 7rem;
     width: 7rem;
 
-    border-radius: 
+    
     background: url(lo1.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -193,7 +193,7 @@ body{
     border-radius: 5rem;
     background-size: cover;
     justify-content: center;
-margin: auto;
+    margin: auto;
     margin-top: 0.4rem;
     text-align: center;
 }
