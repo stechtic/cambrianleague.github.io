@@ -11,11 +11,11 @@ body{
  background-repeat:no-repeat;
  background-position: center;
  background-size:cover;
- opacity:0.5;
+ opacity:0.3;
 }
 .container {
     display: flex;
-    background-color: aliceblue;
+    
 
 }
 
@@ -144,9 +144,9 @@ body{
 
 #team {
 
-    background-color: aliceblue;
+    
     font-size: 2.5rem;
-    ;
+    
     text-align: center;
 }
 
@@ -154,7 +154,7 @@ body{
     
     height: 14rem;
     width: 100vw;
-    background-color: rgb(111, 255, 255);
+    
 
 }
 
@@ -175,7 +175,7 @@ margin: auto;
 .spo2 {
     
     width: 100vw;
-    background-color: rgb(111, 255, 255);
+    
     font-size: 1.5rem;
     text-align: center;
 }
@@ -187,7 +187,7 @@ margin: auto;
 
 #sect-1 {
 
-    background-color: aliceblue;
+    
     margin: 0.2rem;
 
 
@@ -201,7 +201,7 @@ margin: auto;
 #sect-2 {
     display: flex;
     margin: 0.2rem;
-    background-color: aliceblue;
+    
     justify-content: center;
     align-items: center;
     margin-bottom: 1rem;
