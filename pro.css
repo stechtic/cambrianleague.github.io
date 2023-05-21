@@ -33,7 +33,11 @@ body{
  }
 .container {
     display: flex;
-    
+    background:url(st1.jpg);
+ 
+ background-repeat:no-repeat;
+ background-position: center;
+ background-size: cover;
 
 }
 
