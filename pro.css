@@ -12,18 +12,20 @@ body{
 }
 #p1{
  background:url(Foo1.jpg);
- opacity:0.5;
+ 
  background-repeat:no-repeat;
  background-position: center;
  background-size: cover; 
+ opacity:5;
  }
 #p2{
  background:url(Foo2.jpg);
- opacity:0.5;
+ 
  background-repeat:no-repeat;
  background-position: center;
  background-size: cover;
- 
+ opacity:5;
+ margin-top:0px;
  }
 .container {
     display: flex;
