@@ -157,6 +157,9 @@ body{
     width: 50vw;
     color: black;
     font-size: 2rem;
+   display:flex;
+    justify-content:center;
+    align-items:center; 
 }
 
 #team2 {
@@ -171,6 +174,9 @@ body{
     background-position: center;
     height: 25vh;
     width: 50vw;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 #team {
