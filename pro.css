@@ -151,6 +151,8 @@ body{
 
     background: url(wat1.jpg);
     background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 20vh;
     width: 50vw;
     color: black;
@@ -165,6 +167,8 @@ body{
     
     background: url(wat4.jpg);
     background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 20vh;
     width: 50vw;
 }
