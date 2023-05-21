@@ -8,12 +8,12 @@
 }
 body{
  color: black;
- background: url(Foo1.jpg);
+ background: url(Foo2.jpg);
  background-repeat:no-repeat;
  background-position: center;
  background-size:cover;
- opacity:0.2;
- 
+ opacity:0.1;
+ z-index:-1;
 }
 .container {
     display: flex;
