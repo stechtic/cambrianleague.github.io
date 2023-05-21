@@ -150,11 +150,12 @@ body{
     margin: 0.4rem;
 
     background: url(wat1.jpg);
+    height: 25vh;
+    width: 50vw;
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
-    height: 25vh;
-    width: 50vw;
+    
     color: black;
     font-size: 2rem;
    display:flex;
