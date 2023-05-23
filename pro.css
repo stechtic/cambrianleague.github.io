@@ -110,6 +110,9 @@ body{
         display: flex;
         height: 2rem;
     }
+ #navbar a{
+   padding:0.5rem;
+  }
 }
 
 
