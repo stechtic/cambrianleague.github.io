@@ -235,117 +235,155 @@ body{
     flex-wrap:wrap;
     
  }
+
 #p01{
-  background: url(Siddhant.png);
+  background: url(Siddhant.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
 #p02{
-  background: url(Shivam.png);
+  background: url(Shivam.jpg);
+ height: 12rem;
+    width: 12rem;
  background-size: contain; 
  background-repeat: no-repeat;
     background-position: center;
  }
 #p3{
-  background: url(Anjal.png);
+  background: url(Anjal.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
  #p4{
-  background: url(Pratyush.png);
+  background: url(Pratyush.jpg);
+  height: 12rem;
+    width: 12rem;
   background-size: contain;
   
  background-repeat: no-repeat;
     background-position: center;
 }
 #p5{
-  background: url(Akshar.png);
+  background: url(Akshar.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
 #p6{
-  background: url(AkshatM.png);
+  background: url(AkshatM.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p7{
-  background: url(Daksh.png);
+  background: url(Daksh.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
 #p8{
-  background: url(Shorya.png);
+  background: url(Shorya.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p9{
-  background: url(Abhay.png);
+  background: url(Abhay.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p10{
-  background: url(Shiven.png);
+  background: url(Shiven.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p11{
-  background: url(Aryan.png);
+
+  background: url(Aryan.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p12{
-  background: url(Krishna.png);
+  background: url(Krishna.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p13{
-  background: url(Augustya.png);
+  background: url(Augustya.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
 #p14{
-  background: url(Prashant.png);
+  background: url(Prashant.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 
 #p15{
-  background: url(Adhyan.png);
+  background: url(Adhyan.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p16{
-  background: url(Ankit.png);
+  background: url(Ankit.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p17{
-  background: url(Abhinav.png);
+  background: url(Abhinav.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
  }
 #p18{
-  background: url(Abhishek.png);
+  background: url(Abhishek.jpg);
+ height: 12rem;
+    width: 12rem;
   background-size: contain;
  background-repeat: no-repeat;
     background-position: center;
