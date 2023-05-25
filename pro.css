@@ -32,12 +32,7 @@ body{
  
  margin-top:0px;
  }
-#sect-2{
- background:url(foo4.jpg);
- 
- background-repeat:no-repeat;
- background-position: center;
- background-size: cover; 
+
 .container {
     display: flex;
     background:url(st1.jpg);
