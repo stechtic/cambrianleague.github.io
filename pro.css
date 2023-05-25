@@ -233,11 +233,12 @@ body{
 #list{
     display:flex;
     flex-wrap:wrap;
-    
+    justify-content:center;
+    justify-content: space-evenly;
  }
 #ourp{
   display:block;
-  justify-content:center;
+  
  }
 #ours{
  text-align: center;
