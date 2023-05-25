@@ -241,6 +241,7 @@ body{
 .play{
  margin:0.5rem;
  text-align:center;
+ mix-blend-mode:color-burn;
  }
  
  
