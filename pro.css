@@ -231,16 +231,89 @@ body{
 }
 
 #list{
-    background: url(Siddhant.png);
-    background-size:contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    display:flex;
+    flex-wrap:wrap;
+    
+ }
+#p1{
+  background: url(Siddhant.png);
+  
  }
 
-    
-    
+#p2{
+  background: url(Shivam.png);
+  
+ }
+#p3{
+  background: url(Anjal.png);
+  
+ }
 
+ #p4{
+  background: url(Pratyush.png);
+  
+ }
 
+#p5{
+  background: url(Akshar.png);
+  
+ }
+
+#p6{
+  background: url(AkshatM.png);
+  
+ }
+#p7{
+  background: url(Daksh.png);
+  
+ }
+
+#p8{
+  background: url(Shorya.png);
+  
+ }
+#p9{
+  background: url(Abhay.png);
+  
+ }
+#p10{
+  background: url(Shiven.png);
+  
+ }
+#p11{
+  background: url(Aryan.png);
+  
+ }
+#p12{
+  background: url(Krishna.png);
+  
+ }
+#p13{
+  background: url(Augustya.png);
+  
+ }
+
+#p14{
+  background: url(Prashant.png);
+  
+ }
+
+#p15{
+  background: url(Adhyan.png);
+  
+ }
+#p16{
+  background: url(Ankit.png);
+  
+ }
+#p17{
+  background: url(Abhinav.png);
+  
+ }
+#p18{
+  background: url(Abhishek.png);
+  
+ }
 
 
 #sect-1 h1 {
