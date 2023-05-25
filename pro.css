@@ -235,6 +235,9 @@ body{
     flex-wrap:wrap;
     
  }
+#ourp{
+  display:block;
+ }
 
 #p01{
   background: url(Siddhant.jpg);
