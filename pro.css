@@ -238,7 +238,9 @@ body{
 #ourp{
   display:block;
  }
-
+#ours{
+ text-align: center;
+ }
 #p01{
   background: url(Siddhant.jpg);
     height: 12rem;
