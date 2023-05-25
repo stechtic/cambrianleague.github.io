@@ -230,7 +230,12 @@ body{
     padding: 1.5rem;
 }
 
-
+#list{
+    background: url(Siddhant.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
 
     
     
