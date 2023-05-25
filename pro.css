@@ -235,84 +235,120 @@ body{
     flex-wrap:wrap;
     
  }
-#p1{
+#p01{
   background: url(Siddhant.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
-#p2{
+#p02{
   background: url(Shivam.png);
-  
+ background-size: contain; 
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p3{
   background: url(Anjal.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
  #p4{
   background: url(Pratyush.png);
+  background-size: contain;
   
- }
-
+ background-repeat: no-repeat;
+    background-position: center;
+}
 #p5{
   background: url(Akshar.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
 #p6{
   background: url(AkshatM.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p7{
   background: url(Daksh.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
 #p8{
   background: url(Shorya.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p9{
   background: url(Abhay.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p10{
   background: url(Shiven.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p11{
   background: url(Aryan.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p12{
   background: url(Krishna.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p13{
   background: url(Augustya.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
 #p14{
   background: url(Prashant.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
 #p15{
   background: url(Adhyan.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p16{
   background: url(Ankit.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p17{
   background: url(Abhinav.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 #p18{
   background: url(Abhishek.png);
-  
+  background-size: contain;
+ background-repeat: no-repeat;
+    background-position: center;
  }
 
 
