@@ -237,6 +237,7 @@ body{
  }
 #ourp{
   display:block;
+  justify-content:center;
  }
 #ours{
  text-align: center;
