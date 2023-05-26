@@ -16,12 +16,12 @@ body{
 }
 
 #p1{
- background:url(st4.jpg);
+ background:url(foo4.jpg);
  
  background-repeat:no-repeat;
  background-position: center;
  background-size: cover; 
- 
+ color: white;
  }
 #p2{
  background:url(Foo2.jpg);
