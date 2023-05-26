@@ -35,11 +35,7 @@ body{
 
 .container {
     display: flex;
-    background:url(st1.jpg);
- 
- background-repeat:no-repeat;
- background-position: center;
- background-size: cover;
+   background-color: rgb(168, 251, 163);
 
 }
 
@@ -244,7 +240,7 @@ body{
  margin:0.5rem;
  text-align:center;
  
- z-index:
+ 
  }
  
  
@@ -424,4 +420,17 @@ body{
 }
 marquee{
  background-color:rgb(152, 251, 152);
+ }
+ .chaat{
+  color: white;
+ }
+ #support{
+  background: url(Foo1.jpg);
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+ }
+
+ #creat{
+  background-color: rgb(255, 255, 190);
  }
