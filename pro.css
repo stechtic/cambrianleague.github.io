@@ -216,7 +216,7 @@ body{
 }
 
 .spo2 {
-    
+    text-align:center;
     width: 100vw;
     
     font-size: 1.5rem;
@@ -423,6 +423,7 @@ marquee{
  }
  .chaat{
   color: white;
+  text-align: center;
  }
  #support{
   background: url(Foo1.jpg);
